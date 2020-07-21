@@ -36,43 +36,43 @@ function random()
  }
 }
 function p1addscore(img) {
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/2.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/2.png" || img.src=="static/cards/2.png"){
       y=y+2
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/3.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/3.png"|| img.src=="static/cards/3.png"){
       y=y+3
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/4.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/4.png"|| img.src=="static/cards/4.png"){
       y=y+4
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/5.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/5.png"|| img.src=="static/cards/5.png"){
       y=y+5
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/6.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/6.png"|| img.src=="static/cards/6.png"){
       y=y+6
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/7.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/7.png"|| img.src=="static/cards/7.png"){
       y=y+7
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/8.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/8.png"|| img.src=="static/cards/8.png"){
       y=y+8
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/9.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/9.png"|| img.src=="static/cards/9.png"){
       y=y+9
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/10.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/10.png"|| img.src=="static/cards/10.png"){
       y=y+10
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/j.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/j.png"|| img.src=="static/cards/j.png"){
       y=y+8
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/k.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/k.png"|| img.src=="static/cards/k.png"){
       y=y+9
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/a.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/a.png"|| img.src=="static/cards/a.png"){
       y=y+11
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/q.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/q.png"|| img.src=="static/cards/q.png"){
       y=y+7
     }
     if(y>21){
@@ -88,43 +88,43 @@ function p1addscore(img) {
 
 }
 function p2addscore(img) {
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/2.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/2.png"|| img.src=="static/cards/2.png"){
       z=z+2
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/3.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/3.png"|| img.src=="static/cards/3.png"){
       z=z+3
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/4.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/4.png"|| img.src=="static/cards/4.png"){
       z=z+4
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/5.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/5.png"|| img.src=="static/cards/5.png"){
       z=z+5
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/6.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/6.png"|| img.src=="static/cards/6.png"){
       z=z+6
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/7.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/7.png"|| img.src=="static/cards/7.png"){
       z=z+7
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/8.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/8.png"|| img.src=="static/cards/8.png"){
       z=z+8
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/9.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/9.png"|| img.src=="static/cards/9.png"){
       z=z+9
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/10.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/10.png"|| img.src=="static/cards/10.png"){
     z=z+10
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/j.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/j.png"|| img.src=="static/cards/j.png"){
       z=z+8
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/k.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/k.png"|| img.src=="static/cards/k.png"){
       z=z+9
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/a.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/a.png"|| img.src=="static/cards/a.png"){
       z=z+11
     }
-    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/q.png"){
+    if (img.src=="file:///D:/Java%20Script%20Projects/blackjack/static/cards/q.png"|| img.src=="static/cards/q.png"){
       z=z+7
     }
     if(z>21){
